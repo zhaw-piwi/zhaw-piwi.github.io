@@ -1,0 +1,162 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Standortanalyse AG BE ZG",
+    "section": "",
+    "text": "1 Zusammenfassung\nVerantwortlich: Roman/Fabienne\nStandortanalyse für die Anbaueignung verschiedener Rebsorten in den Kantonen Aargau, Bern und Zug\nAbbildung Titelseite: Rebbau am Bielersee im Kanton Bern, Schweiz\nQuelle: Adobe Stock von Stephanie Jud\nForschungsgruppen Geography of Food, Geoinformatik und Hortikultur\nZürcher Hochschule für Angewandte Wissenschaften ZHAW\nInstitut für Umwelt und Natürliche Ressourcen\nGrüentalstrasse 14\n8820 Wädenswil\nCopyright © Datum XX\nVerantwortlich: Alle jeweils für ihre Kapitel",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Zusammenfassung</span>"
+    ]
+  },
+  {
+    "objectID": "Ausgangslage.html",
+    "href": "Ausgangslage.html",
+    "title": "2  Ausgangslage und Zielsetzung",
+    "section": "",
+    "text": "Verantwortlich: Roman/Fabienne\nDie ZHAW führte 2022/2023 für den Kanton Luzern im Rahmen des Projekts «Offensive Spezialkulturen» eine Standortanalyse für die Anbaueignung von Piwi-Rebsorten durch 1,2. Die Beurteilung der Standort-eignung von Piwi-Rebsorten erfolgte anhand des Wärmesummenindex nach Huglin 3,4. Dieser Index wird sowohl für die Beurteilung der Anbaueignung unter den heutigen klimatischen Verhältnissen, als auch für die Abschätzung der Klimawandelauswirkungen auf den künftigen Weinbau verwendet 5–7.\nIm Kanton Luzern wurde die aktuelle Standorteignung verschiedener Rebsorten für den Zeitraum 2012 bis 2021 auf Basis von Beobachtungsdaten beurteilt, und unter Berücksichtigung der Höhenlage, Exposi-tion und Hangneigung auf eine Auflösung von 2 m herunterskaliert. Für die künftigen Zeiträume 2031-2040 und 2051-2060 wurden simulierte Klimadaten verschiedener Klimaszenarien (RCP 2.6, 4.5 und 8.5) in einer Auflösung von 2 km verwendet, um die erwartete Veränderung des Huglin-Index aufgrund der Klimaerwärmung abzuschätzen 8. Die Ergebnisse der Studie bieten eine Entscheidungsunterstützung bei der Beurteilung neuer Rebbaustandorte und bei der Auswahl von Rebsorten. Im Kanton Luzern wurden die Ergebnisse ins kantonale Web-GIS integriert und werden im Rahmen des Bewilligungsverfahrens bereits eingesetzt 1.\nDie im Rahmen der Luzerner Studie entwickelte Methodik lässt sich auf weitere Kantone anwenden, um den standortangepassten Weinbau weiter zu fördern. An der Konferenz der Rebbaukommissäre und -kommissarinnen (KoReKo) vom 3. Mai 2023 wurde die Studie den verantwortlichen Personen der Deutschschweizer Kantone vorgestellt. Die Kantone Aargau, Bern und Zug haben sich nun für eine Standortanalyse in ihren Kantonen entschieden.\nMit der Standortanalyse soll die bioklimatische Standorteignung verschiedener Rebsorten für die weite-re Kantone Aargau, Bern und Zug anhand des Huglin-Index evaluiert werden. Hierzu wird der Index für sowohl für die vergangenen 10 Jahre (2012-2021), als auch für künftige Bedingungen (2031-2040 und 2051-2060) anhand verschiedener Klimaszenarien berechnet. Die Analyse erfolgt mittels GIS und liefert somit räumlich aufgelöste Ergebnisse (Eignungskarten).",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Ausgangslage und Zielsetzung</span>"
+    ]
+  },
+  {
+    "objectID": "Methodik.html",
+    "href": "Methodik.html",
+    "title": "3  Methodisches Vorgehen",
+    "section": "",
+    "text": "3.1 Berechnungen des Huglin-Index für historische und künftige Zeiträume\nVerantwortlich: Roman/Fabienne\nInhalte:\nVerantwortlich: Roman\nInhalte:",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Methodisches Vorgehen</span>"
+    ]
+  },
+  {
+    "objectID": "Methodik.html#berechnungen-des-huglin-index-für-historische-und-künftige-zeiträume",
+    "href": "Methodik.html#berechnungen-des-huglin-index-für-historische-und-künftige-zeiträume",
+    "title": "3  Methodisches Vorgehen",
+    "section": "",
+    "text": "Historisch (pro Jahr und dann aggregiert)\n\n1974-1983\n1984-1993\n1994-2003\n2004-2013\n2014-2023\n2024 (nur für Validierung zusätzlich berechnet)\n\nKünftig\n\nModelle: DMI-HIRHAM, MPICSC-REMO1, SMHI-RCA\nRCPs: 2.6, 4.5, 8.5\nZeiträume: 2014-2023, 2031-2040, 2051-2060",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Methodisches Vorgehen</span>"
+    ]
+  },
+  {
+    "objectID": "Methodik.html#downscaling-des-huglin-index-anhand-der-topographie",
+    "href": "Methodik.html#downscaling-des-huglin-index-anhand-der-topographie",
+    "title": "3  Methodisches Vorgehen",
+    "section": "3.2 Downscaling des Huglin-Index anhand der Topographie",
+    "text": "3.2 Downscaling des Huglin-Index anhand der Topographie\nVerantwortlich: Roman\nInhalte:\n\nBerücksichtigung Höhenlage, Exposition und Hangneigung\nAuf 10x10 m",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Methodisches Vorgehen</span>"
+    ]
+  },
+  {
+    "objectID": "Methodik.html#programmierumgebung-und-dokumentation",
+    "href": "Methodik.html#programmierumgebung-und-dokumentation",
+    "title": "3  Methodisches Vorgehen",
+    "section": "3.3 Programmierumgebung und Dokumentation",
+    "text": "3.3 Programmierumgebung und Dokumentation\nVerantwortlich: Nils\nInhalte\n\nErklärung und Verlinkung GitHub",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Methodisches Vorgehen</span>"
+    ]
+  },
+  {
+    "objectID": "Methodik.html#verwendete-daten",
+    "href": "Methodik.html#verwendete-daten",
+    "title": "3  Methodisches Vorgehen",
+    "section": "3.4 Verwendete Daten",
+    "text": "3.4 Verwendete Daten\nVerantwortlich: Nils\nInhalte\n\nTabelle Verwendete Daten wie in Luzern Bericht",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Methodisches Vorgehen</span>"
+    ]
+  },
+  {
+    "objectID": "Methodik.html#validierung",
+    "href": "Methodik.html#validierung",
+    "title": "3  Methodisches Vorgehen",
+    "section": "3.5 Validierung",
+    "text": "3.5 Validierung\nVerantwortlich: Peter\nInhalte:\n\nErhebung Rebenproben evtl. aufgeteilt nach Kantonen, Angabe der Standorte, Anzahl Probenahmen, Bestimmung Mostgewicht etc.\nVorgehen Auswertung der Daten",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Methodisches Vorgehen</span>"
+    ]
+  },
+  {
+    "objectID": "Methodik.html#zuordnung-des-huglin-index-zu-verschiedenen-rebsorten",
+    "href": "Methodik.html#zuordnung-des-huglin-index-zu-verschiedenen-rebsorten",
+    "title": "3  Methodisches Vorgehen",
+    "section": "3.6 Zuordnung des Huglin-Index zu verschiedenen Rebsorten",
+    "text": "3.6 Zuordnung des Huglin-Index zu verschiedenen Rebsorten\nVerantwortlich: Peter",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Methodisches Vorgehen</span>"
+    ]
+  },
+  {
+    "objectID": "Resultate.html",
+    "href": "Resultate.html",
+    "title": "4  Resultate",
+    "section": "",
+    "text": "4.1 Historische Veränderungen des Huglin-Index seit 1974\nVerantwortlich: Roman/Fabienne (für Einleitung)\nInhalte\nÜbersicht HI Kanton gesamt\nVerantwortlich: Roman/Fabienne\nInhalte:",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Resultate</span>"
+    ]
+  },
+  {
+    "objectID": "Resultate.html#historische-veränderungen-des-huglin-index-seit-1974",
+    "href": "Resultate.html#historische-veränderungen-des-huglin-index-seit-1974",
+    "title": "4  Resultate",
+    "section": "",
+    "text": "Veränderungen über 10jahresperioden seit 1974\nEvtl. Darstellung 2-3 ausgewählte Rebberge pro Kanton (Auswahl Peter? Validierungsflächen?)\nAuflösung: eher grob (1km)",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Resultate</span>"
+    ]
+  },
+  {
+    "objectID": "Resultate.html#huglin-index-für-den-aktuellen-zeitraum-2014-2023",
+    "href": "Resultate.html#huglin-index-für-den-aktuellen-zeitraum-2014-2023",
+    "title": "4  Resultate",
+    "section": "4.2 Huglin-Index für den aktuellen Zeitraum 2014-2023",
+    "text": "4.2 Huglin-Index für den aktuellen Zeitraum 2014-2023\nVerantwortlich: Roman/Fabienne\nInhalte\n\nDownscaled Hi-Werte\nEvtl. Darstellung 2-3 ausgewählte Rebberge pro Kanton (Auswahl Peter? Validierungsflächen?) mit aktuellem Rebbaukataster\nEvtl. Darstellung für einzelne Rebsorten (zu besprechen mit Peter/Nils)?\nAuflösung: 10x10 m",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Resultate</span>"
+    ]
+  },
+  {
+    "objectID": "Resultate.html#künftige-veränderung-des-huglin-index-bis-2031-2040-und-2051-2060",
+    "href": "Resultate.html#künftige-veränderung-des-huglin-index-bis-2031-2040-und-2051-2060",
+    "title": "4  Resultate",
+    "section": "4.3 Künftige Veränderung des Huglin-Index bis 2031-2040 und 2051-2060",
+    "text": "4.3 Künftige Veränderung des Huglin-Index bis 2031-2040 und 2051-2060\nVerantwortlich: Roman/Fabienne\nInhalte\n\nZu bestimmen: Wie stellen wir die 3 Modelle, 3 RCPs, und 3 Zeiträume für die 3 Kantone sinnvoll dar?\nDeltas (31-40, 51-60)\nEvtl. Darstellung 2-3 ausgewählte Rebberge pro Kanton (Auswahl Peter? Validierungsflächen?)",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Resultate</span>"
+    ]
+  },
+  {
+    "objectID": "Resultate.html#ergebnisse-der-validierung",
+    "href": "Resultate.html#ergebnisse-der-validierung",
+    "title": "4  Resultate",
+    "section": "4.4 Ergebnisse der Validierung",
+    "text": "4.4 Ergebnisse der Validierung\nVerantwortlich: Peter\nInhalte:\n\nIch denke hier macht es Sinn die Auswertung über alle Kantone gemeinsam zu präsentieren",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Resultate</span>"
+    ]
+  },
+  {
+    "objectID": "Diskussion.html",
+    "href": "Diskussion.html",
+    "title": "5  Diskussion und Schlussfolgerungen",
+    "section": "",
+    "text": "Verantwortlich: Roman (Lead), Fabienne, Peter, Nils\nInhalte\n\nDiskussion der Ergebnisse\nVergleich mit Literatur von Uni Neuchatel (Comte et al.)\nInterpretation der Validierung (inkl. macht eine Wiederholung der Probenahmen Sinn?)",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Diskussion und Schlussfolgerungen</span>"
+    ]
+  },
+  {
+    "objectID": "Danksagung.html",
+    "href": "Danksagung.html",
+    "title": "6  Danksagung",
+    "section": "",
+    "text": "Verantwortlich: Roman",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Danksagung</span>"
+    ]
+  }
+]
