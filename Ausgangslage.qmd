@@ -1,0 +1,12 @@
+# Ausgangslage und Zielsetzung
+
+Verantwortlich: Roman/Fabienne
+
+Die ZHAW führte 2022/2023 für den Kanton Luzern im Rahmen des Projekts «Offensive Spezialkulturen» eine Standortanalyse für die Anbaueignung von Piwi-Rebsorten durch 1,2. Die Beurteilung der Standort-eignung von Piwi-Rebsorten erfolgte anhand des Wärmesummenindex nach Huglin 3,4. Dieser Index wird sowohl für die Beurteilung der Anbaueignung unter den heutigen klimatischen Verhältnissen, als auch für die Abschätzung der Klimawandelauswirkungen auf den künftigen Weinbau verwendet 5--7.
+
+Im Kanton Luzern wurde die aktuelle Standorteignung verschiedener Rebsorten für den Zeitraum 2012 bis 2021 auf Basis von Beobachtungsdaten beurteilt, und unter Berücksichtigung der Höhenlage, Exposi-tion und Hangneigung auf eine Auflösung von 2 m herunterskaliert. Für die künftigen Zeiträume 2031-2040 und 2051-2060 wurden simulierte Klimadaten verschiedener Klimaszenarien (RCP 2.6, 4.5 und 8.5) in einer Auflösung von 2 km verwendet, um die erwartete Veränderung des Huglin-Index aufgrund der Klimaerwärmung abzuschätzen 8. Die Ergebnisse der Studie bieten eine Entscheidungsunterstützung bei der Beurteilung neuer Rebbaustandorte und bei der Auswahl von Rebsorten. Im Kanton Luzern wurden die Ergebnisse ins kantonale Web-GIS integriert und werden im Rahmen des Bewilligungsverfahrens bereits eingesetzt 1.
+
+Die im Rahmen der Luzerner Studie entwickelte Methodik lässt sich auf weitere Kantone anwenden, um den standortangepassten Weinbau weiter zu fördern. An der Konferenz der Rebbaukommissäre und -kommissarinnen (KoReKo) vom 3. Mai 2023 wurde die Studie den verantwortlichen Personen der Deutschschweizer Kantone vorgestellt. Die Kantone Aargau, Bern und Zug haben sich nun für eine Standortanalyse in ihren Kantonen entschieden.
+
+Mit der Standortanalyse soll die bioklimatische Standorteignung verschiedener Rebsorten für die weite-re Kantone Aargau, Bern und Zug anhand des Huglin-Index evaluiert werden. Hierzu wird der Index für sowohl für die vergangenen 10 Jahre (2012-2021), als auch für künftige Bedingungen (2031-2040 und 2051-2060) anhand verschiedener Klimaszenarien berechnet. Die Analyse erfolgt mittels GIS und liefert somit räumlich aufgelöste Ergebnisse (Eignungskarten).
+

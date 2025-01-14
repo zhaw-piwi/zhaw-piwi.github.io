@@ -1,0 +1,64 @@
+# Resultate
+
+Verantwortlich: Roman/Fabienne (für Einleitung)
+
+Inhalte
+
+-   Welche Modell-RCP-Kombinationen sollen sinnvollerweise dargestellt werden?
+
+Übersicht HI Kanton gesamt
+
+  -----------------------------------------------------------------------
+  BE aktuell (2014-2023)              BE historisch (1994-2003)
+  ----------------------------------- -----------------------------------
+  BE Delta 31-40 (RCP 2.6)            BE Delta 31-40 (RCP 8.5)
+
+  BE Delta 51-60 (RCP 2.6)            BE Delta 51-60 (RCP 8.5)
+  -----------------------------------------------------------------------
+
+## Historische Veränderungen des Huglin-Index seit 1974
+
+Verantwortlich: Roman/Fabienne
+
+Inhalte:
+
+-   Veränderungen über 10jahresperioden seit 1974
+
+-   Evtl. Darstellung 2-3 ausgewählte Rebberge pro Kanton (Auswahl Peter? Validierungsflächen?)
+
+-   Auflösung: eher grob (1km)
+
+## Huglin-Index für den aktuellen Zeitraum 2014-2023
+
+Verantwortlich: Roman/Fabienne
+
+Inhalte
+
+-   Downscaled Hi-Werte
+
+-   Evtl. Darstellung 2-3 ausgewählte Rebberge pro Kanton (Auswahl Peter? Validierungsflächen?) mit aktuellem Rebbaukataster
+
+-   Evtl. Darstellung für einzelne Rebsorten (zu besprechen mit Peter/Nils)?
+
+-   Auflösung: 10x10 m
+
+## Künftige Veränderung des Huglin-Index bis 2031-2040 und 2051-2060
+
+Verantwortlich: Roman/Fabienne
+
+Inhalte
+
+-   Zu bestimmen: Wie stellen wir die 3 Modelle, 3 RCPs, und 3 Zeiträume für die 3 Kantone sinnvoll dar?
+
+-   Deltas (31-40, 51-60)
+
+-   Evtl. Darstellung 2-3 ausgewählte Rebberge pro Kanton (Auswahl Peter? Validierungsflächen?)
+
+## Ergebnisse der Validierung
+
+Verantwortlich: Peter
+
+Inhalte:
+
+-   Ich denke hier macht es Sinn die Auswertung über alle Kantone gemeinsam zu präsentieren
+

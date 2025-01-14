@@ -1,0 +1,76 @@
+# Methodisches Vorgehen
+
+Verantwortlich: Roman/Fabienne
+
+Inhalte:
+
+-   Einleitung
+
+## Berechnungen des Huglin-Index für historische und künftige Zeiträume
+
+Verantwortlich: Roman
+
+Inhalte:
+
+-   Historisch (pro Jahr und dann aggregiert)
+
+    -   1974-1983
+
+    -   1984-1993
+
+    -   1994-2003
+
+    -   2004-2013
+
+    -   2014-2023
+
+    -   2024 (nur für Validierung zusätzlich berechnet)
+
+-   Künftig
+
+    -   Modelle: DMI-HIRHAM, MPICSC-REMO1, SMHI-RCA
+
+    -   RCPs: 2.6, 4.5, 8.5
+
+    -   Zeiträume: 2014-2023, 2031-2040, 2051-2060
+
+## Downscaling des Huglin-Index anhand der Topographie
+
+Verantwortlich: Roman
+
+Inhalte:
+
+-   Berücksichtigung Höhenlage, Exposition und Hangneigung
+
+-   Auf 10x10 m
+
+## Programmierumgebung und Dokumentation
+
+Verantwortlich: Nils
+
+Inhalte
+
+-   Erklärung und Verlinkung GitHub
+
+## Verwendete Daten
+
+Verantwortlich: Nils
+
+Inhalte
+
+-   Tabelle Verwendete Daten wie in Luzern Bericht
+
+## Validierung
+
+Verantwortlich: Peter
+
+Inhalte:
+
+-   Erhebung Rebenproben evtl. aufgeteilt nach Kantonen, Angabe der Standorte, Anzahl Probenahmen, Bestimmung Mostgewicht etc.
+
+-   Vorgehen Auswertung der Daten
+
+## Zuordnung des Huglin-Index zu verschiedenen Rebsorten
+
+Verantwortlich: Peter
+

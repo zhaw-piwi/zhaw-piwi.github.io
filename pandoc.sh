@@ -1,0 +1,1 @@
+pandoc --wrap=none --extract-media . -o index.qmd -f docx -t markdown Bericht_Standortanalyse_AB_BE_ZG.docx

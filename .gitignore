@@ -1,0 +1,5 @@
+_book
+*.docx
+.Rhistory
+.Rproj.user
+.quarto

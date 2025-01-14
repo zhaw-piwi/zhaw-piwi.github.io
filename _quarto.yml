@@ -1,0 +1,35 @@
+project:
+  type: book
+
+book:
+  title: "Standortanalyse AG BE ZG"
+  subtitle: Schlussbericht
+  author: 
+    - Dr. Roman Grüter
+    - Fabienne Buchmann
+    - Nils Ratnaweera
+    - Prof. Dr. Peter Schuhmacher
+  date: "1/14/2025"
+  chapters:
+    - index.qmd
+    - Ausgangslage.qmd
+    - Methodik.qmd 
+    - Resultate.qmd
+    - Diskussion.qmd
+    - Danksagung.qmd
+    - Literatur.qmd
+
+bibliography: references.bib
+
+lang: de
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+
+
